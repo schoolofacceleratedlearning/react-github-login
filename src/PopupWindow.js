@@ -47,7 +47,7 @@ class PopupWindow {
            * cross-origin frame.
            */
         }
-      }, 500);
+      }, 5);
     });
   }
 
